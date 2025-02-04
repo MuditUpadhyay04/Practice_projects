@@ -1,3 +1,8 @@
+## Only working for a specific test case...
+##
+## --Breaks when all have frequency 1
+## --Breaks when abbbcc
+
 string = 'aababbb'
 # a_start = (string.find('a')) + 1
 # a_end = (string.rfind('a')) + 1
